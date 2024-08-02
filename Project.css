@@ -1,0 +1,57 @@
+:root{
+    --border-color: #A9A9A9
+    --arial : 
+}
+
+img{
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+
+ h3{
+   font-family: Arial, Helvetica, sans-serif;
+   padding-bottom: 10px;
+   
+}
+
+div {
+    padding: 25px;
+}
+
+.heading2{
+    padding: 25px;
+}
+
+.image{
+    width: 500px;
+    transition-duration: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+
+
+}
+
+
+
+
+
+.image:hover{
+    width: 40%;
+    height: 40%;
+    
+}
+
+nav {
+    display: flex !important;
+ 
+    justify-content: space-around !important;
+
+
+}
+
+nav ul li a {
+ font-size: 50px !important;
+ padding: 20px !important;
+color: cadetblue !important;
+}
+
