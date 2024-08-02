@@ -9,17 +9,7 @@ body{
     background-color: whitesmoke;
 }
 
-header{
-    
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-    position: fixed;
-    background-color: white;
-    margin-top: 0;
-    z-index: 999;
-}
+
 
 header a:hover{
     color: gray;
