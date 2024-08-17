@@ -184,4 +184,64 @@ color: cadetblue !important;
 }
 
 
+@media (max-width: 500px )  {
+    nav{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: fit-content !important;
+    }
+
+    .nav-underline{
+        display: flex !important;
+        flex-wrap: wrap !important;
+        width: 100% !important;
+        margin : 0% !important;
+        padding: 5% !important;
+    }
+
+    .nav-item {
+        display: inline !important;
+        width: fit-content !important;
+        font-size: 90% !important;
+       padding: 0% !important;
+    }
+    .nav-link {
+        display: inline !important;
+        width: fit-content !important;
+        font-size: 160% !important;
+       padding: 0% !important;
+    }
+
+    *{
+        width:100% !important;
+    }
+
+    img{
+        width: 70% !important;
+
+    }
+
+    .Paragraph{
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        width: fit-content !important;
+    }
+
+    ul{
+        padding-left: 20% !important;
+        padding-right: 20% !important;
+        margin-bottom: 20% !important;
+    }
+
+    .heading2{
+       
+    
+    }
+    
+}
+
+
+
+
 
